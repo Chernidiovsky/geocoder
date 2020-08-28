@@ -45,5 +45,5 @@ def openUrlCoordinate(lng, lat):
 
 
 if __name__ == "__main__":
-    dic = openUrlAddress(u"天津市河北区新开河街天泰路盛雅佳苑15号楼1门101")
+    dic = openUrlAddress(u"北京市海淀区彩和坊路海淀西大街74号")
     print(dic)
