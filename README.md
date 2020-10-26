@@ -1,7 +1,11 @@
 python 2
 
-parseAddress 调用腾讯api解析地址得到省市区经纬度等地理信息
-crawlGeoCodes 爬取省市区的行政区划代码
+<1> parseAddress
+调用腾讯api解析地址得到省市区经纬度等地理信息，包括了地址清洗逻辑
+
+<2> crawlGeoCodes
+爬取省市区的行政区划代码
+
 
 codesProvCity 省份、城市区划代码
 
